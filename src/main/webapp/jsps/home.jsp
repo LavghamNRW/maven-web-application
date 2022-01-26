@@ -15,7 +15,8 @@
 	Class26 will run from October 2, 2021.
 	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY
 	Mascherano build new updated i love soccer
-	JESUS is the Way the truth and the light</h2>
+	JESUS is the Way the truth and the light
+	cameroon will be great one day when i am president of the republic</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
