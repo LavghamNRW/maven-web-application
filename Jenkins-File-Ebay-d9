@@ -37,5 +37,4 @@ node {
    stage('8-prod-Deploy'){
         deploy adapters: [tomcat9(credentialsId: 'tomcat-credentials', path: '', url: 'http://54.172.187.103:7000/')], contextPath: null, war: 'target/*.war'    
   } 
-  
 }
